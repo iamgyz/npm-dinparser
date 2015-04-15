@@ -1,0 +1,13 @@
+{
+    "name": "dinparser",
+    "version": "0.1.1",
+    "author" : "Gyzheng",
+    "description": "A dinbendon parser",
+    "dependencies": {
+                      "request" : "2.55.0"
+                    },
+    "main": "app.js",
+    "keywords": ["parser","dinbendon"],
+    "type" : "git",
+    "url" : "https://github.com/iamgyz/npm-dinparser.git"
+}
