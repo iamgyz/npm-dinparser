@@ -7,7 +7,7 @@
 
 ###Usage:
 
-1. Directly print the result:
+* Directly print the result:
 
 ```
 var din = require('dinparser');
@@ -15,7 +15,7 @@ var din = require('dinparser');
 din.print('username','password');
 ```
 
-2. Using callback fumction
+* Using callback fumction
 
 ```
 var din = require('dinparser');
